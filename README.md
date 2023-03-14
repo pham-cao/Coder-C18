@@ -1,6 +1,5 @@
-# Hello Word! 
 
-<div class="viblo">
+<div text-align:center>
     <h1>  Hello Word! </h4>
 </div>
 
