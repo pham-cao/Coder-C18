@@ -1,5 +1,5 @@
 
-<div text-align:center >
+<div style="text-align: center;" >
     <h1>  Hello Word! </h1>
 </div>
 
