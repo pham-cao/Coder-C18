@@ -19,6 +19,6 @@ Git Hub của mình làm có một số  file code có thể không được t�
 
 # Machine Learning Tutorial
 
-[emotion](https://github.com/Coder-C18/Emotion_recognition)
+[Emotion_recognition](https://github.com/Coder-C18/Emotion_recognition)
 
 # Personal Project
