@@ -8,7 +8,7 @@
     <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e473h2ld3jqhwcjj2e6gj2k8ovy1t9qr7ub6rq8uegk&rid=giphy.gif&ct=s">
 </p>
 
-Hí😉! I'm FamCao -aka X-18 VietNames \n
+Hí😉! I'm FamCao -aka X-18 VietNames <br>
 Git Hub của mình làm có một số  file code có thể không được tối ưu nhưng nếu không tìm được cách nào hãy sử dụng thử xem sao nhá
 
 
