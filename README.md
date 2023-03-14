@@ -16,8 +16,7 @@ Git Hub của mình làm có một số  file code có thể không được t�
 # ⚡ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-C18&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-C18&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 |:------------:|:-------------:|
-# Algorithm
-## SEARCH
+
 
 # Machine Learning Tutorial
 
