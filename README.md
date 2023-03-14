@@ -1,4 +1,4 @@
-# PERSONAL IMFORMATION 
+# Hello Word! 
 [![[https://i.pinimg.com/originals/ce/eb/62/ceeb62c0b30720b233b60d6d5a773c47.gif](https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e473h2ld3jqhwcjj2e6gj2k8ovy1t9qr7ub6rq8uegk&rid=giphy.gif&ct=s)](https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e473h2ld3jqhwcjj2e6gj2k8ovy1t9qr7ub6rq8uegk&rid=giphy.gif&ct=s)
 
 Hí😉! I'm FamCao -aka X-18 VietNames 
