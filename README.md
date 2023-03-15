@@ -25,7 +25,11 @@ Chúc các bạn một ngày vui vẻ ! <br>
 |:------------:|:-------------:|
 
 
-# Machine Learning Tutorial
+# Tutorial
+## *1. Preprocessing Data*
+## *2. Supervised learning*
+## *3. Unsupervised learning*
+## *4. Deeplearning*
 
 
 
