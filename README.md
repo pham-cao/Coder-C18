@@ -26,12 +26,14 @@ Chúc các bạn một ngày vui vẻ ! <br>
 
 
 # Tutorial
-## *1. Preprocessing Data*
-## *2. Supervised learning*
-## *3. Unsupervised learning*
-## *4. Deeplearning*
+## [*1. Preprocessing Data* ](https://github.com/Coder-C18/Tutorial/tree/main/Preprocessing%20Data)
+## [*2. Supervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)
+## [*3. Unsupervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)
+## [*4. Deeplearning*](https://github.com/Coder-C18/Tutorial/tree/main/Deeplearning)
 
 
 
 # Personal Project
-[1 . Emotion recognition](https://github.com/Coder-C18/Emotion_recognition)
+## ComputerVision
+## NLP
+## Reinforcement learning
