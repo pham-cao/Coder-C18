@@ -26,7 +26,7 @@ Chúc các bạn một ngày vui vẻ ! <br>
 
 
 # Tutorial
-## [*1. Preprocessing Data* ]([https://github.com/Coder-C18/Tutorial/tree/main/Preprocessing%20Data](https://github.com/Coder-C18/data_science))
+## [*1. Preprocessing Data* ](https://github.com/Coder-C18/data_science)
 ## [*2. Supervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)
 ## [*3. Unsupervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)
 ## [*4. Deeplearning*](https://github.com/Coder-C18/Tutorial/tree/main/Deeplearning)
