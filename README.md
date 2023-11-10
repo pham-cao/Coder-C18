@@ -37,3 +37,4 @@ Chúc các bạn một ngày vui vẻ ! <br>
 ## ComputerVision
 ## NLP
 ## Reinforcement learning
+https://github.com/rapidsai/cudf?fbclid=IwAR2TYUGKZYsYhtDdRXW6O9XrBAZwvFtkXaAu3k2ri1Tiy6f92nBF1-0vQ0I
