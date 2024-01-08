@@ -38,3 +38,10 @@ Chúc các bạn một ngày vui vẻ ! <br>
 ## NLP
 ## Reinforcement learning
 https://github.com/rapidsai/cudf?fbclid=IwAR2TYUGKZYsYhtDdRXW6O9XrBAZwvFtkXaAu3k2ri1Tiy6f92nBF1-0vQ0I
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+
