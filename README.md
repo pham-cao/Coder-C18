@@ -26,7 +26,7 @@ Chúc các bạn một ngày vui vẻ ! <br>
 
 
 # Tutorial
-## [*1. Preprocessing Data* ](https://github.com/Coder-C18/data_science)
+## 
 ## [*2. Supervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)
 ## [*3. Unsupervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)
 ## [*4. Deeplearning*](https://github.com/Coder-C18/Tutorial/tree/main/Deeplearning)
@@ -40,8 +40,8 @@ Chúc các bạn một ngày vui vẻ ! <br>
 
 |Họ và tên | Giới tính|Dân tộc|
 |:---|:----------------:|----:|
-|Sùng a bái | Nam|Hơ mông|
-|Lò a hính|Nữ|Ê đê|
+| [*2. Supervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning) |  [*2. Supervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)|
+| [*2. Supervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)| [*2. Supervised learning*](https://github.com/Coder-C18/Tutorial/tree/main/Supervised%20learning)|
 
 
 
