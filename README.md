@@ -38,7 +38,6 @@ Chúc các bạn một ngày vui vẻ ! <br>
 ## NLP
 ## Reinforcement learning
 
-
-{@vimeo: https://vimeo.com/62604492}
+{@gist: https://gist.github.com/JeffreyWay/207e3bfdb5cafff050a1d75dbf755a5c}
 
 
