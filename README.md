@@ -38,6 +38,10 @@ Chúc các bạn một ngày vui vẻ ! <br>
 ## NLP
 ## Reinforcement learning
 
-{@gist: https://gist.github.com/JeffreyWay/207e3bfdb5cafff050a1d75dbf755a5c}
+|Họ và tên | Giới tính|Dân tộc|
+|:---|:----------------:|----:|
+|Sùng a bái | Nam|Hơ mông|
+|Lò a hính|Nữ|Ê đê|
+
 
 
