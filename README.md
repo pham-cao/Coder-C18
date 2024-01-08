@@ -37,5 +37,8 @@ Chúc các bạn một ngày vui vẻ ! <br>
 ## ComputerVision
 ## NLP
 ## Reinforcement learning
-{@youtube: https://www.youtube.com/watch?v=HndN6P9ke6U}
+
+
+{@vimeo: https://vimeo.com/62604492}
+
 
